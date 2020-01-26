@@ -1,15 +1,17 @@
-{
-  "todos": [
-    {
-      "id": 1,
-      "title": "Hi"
-    },
-    {
-      "id": 2,
-      "title": "There"
+[
+  {
+    "todos": [
+      {
+        "id": 1,
+        "title": "Hi"
+      },
+      {
+        "id": 2,
+        "title": "There"
+      }
+    ],
+    "profile": {
+      "name": "rizwan"
     }
-  ],
-  "profile": {
-    "name": "rizwan"
   }
-}
+]
