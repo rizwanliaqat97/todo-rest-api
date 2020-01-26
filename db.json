@@ -9,5 +9,9 @@
         "title": "There"
       }
     ],
-    "profile": "Rizwan Liaqat"
+    "profile": [ 
+        {
+            "name": "Rizwan Liaqat"
+        }
+    ],
 }
